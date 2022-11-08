@@ -1,0 +1,106 @@
+commit f68a54b6c4fdd6bd606df7da48e0f4d9cc14bcaa
+Author: alexalgrund <alexander.algrund@gmail.com>
+Date:   Mon Nov 7 21:28:10 2022 +0200
+
+    muutokset
+
+ tiedostoja/file1             | 1 -
+ tiedostoja/{file2 => file22} | 0
+ 2 files changed, 1 deletion(-)
+
+commit 64343dac5a1d34dd82353a1a0640899e8f1c7089
+Author: alexalgrund <alexander.algrund@gmail.com>
+Date:   Mon Nov 7 21:26:40 2022 +0200
+
+    Tiedosto
+
+ tiedostoja/file3 | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit ef4350bb2d89b4ece18ab03321786265ee2b7e6e
+Author: alexalgrund <alexander.algrund@gmail.com>
+Date:   Mon Nov 7 21:24:04 2022 +0200
+
+    Tiedostoo!
+
+ tiedostoja/file1 | 1 +
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 1 insertion(+)
+
+commit 3c5efbeecdb51dc2a3bfb52972428eb43cbc0dbf
+Author: alexalgrund <alexander.algrund@gmail.com>
+Date:   Mon Nov 7 20:55:36 2022 +0200
+
+    Tää on taas joku tämmönen kommitti
+
+ ekat.txt   | 3 +++
+ kolmas.txt | 4 +++-
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+
+commit 2a795639e3283a5c2850f091edfa866b81b6f302
+Author: alexalgrund <alexander.algrund@gmail.com>
+Date:   Mon Nov 7 20:43:27 2022 +0200
+
+    Nimiä tässä vaihtelen.
+
+ ekat.txt     |  0
+ tiedosto.txt | 18 ------------------
+ toinen.txt   |  1 -
+ 3 files changed, 19 deletions(-)
+
+commit 03dd00b2b0eeac4c1260548d0da5ba2f9c1aa603
+Author: alexalgrund <alexander.algrund@gmail.com>
+Date:   Mon Nov 7 20:26:43 2022 +0200
+
+    Bumtsibum Bumtisbum bum
+
+ tiedosto.txt | 17 +++++++++++++++++
+ 1 file changed, 17 insertions(+)
+
+commit ea03faf90f08c233075a7320a2ed3e1f6bff920f
+Author: alexalgrund <alexander.algrund@gmail.com>
+Date:   Mon Nov 7 20:07:49 2022 +0200
+
+    Tää on nyt selkeesti joku tiedostosimulaattori.
+
+ stuff/jokin_tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 3351ca306568afd98c57747ad30a97746998f5d0
+Author: alexalgrund <alexander.algrund@gmail.com>
+Date:   Mon Nov 7 20:03:38 2022 +0200
+
+    Mistä näitä tiedostoja oikein tulee?
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 0e75d6b0d7c4afc463327450517115b2f50e3c75
+Author: alexalgrund <alexander.algrund@gmail.com>
+Date:   Mon Nov 7 20:01:27 2022 +0200
+
+    kolmatta viedään
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 6018cc613808fbe5b14442173bc8e975015caf46
+Author: alexalgrund <alexander.algrund@gmail.com>
+Date:   Mon Nov 7 19:49:28 2022 +0200
+
+    Tässä vaan vähä kokeillaan asioita.
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 138b607181867f853c2a0ef5e765f6dc6f84b0fa
+Author: alexalgrund <alexander.algrund@gmail.com>
+Date:   Mon Nov 7 19:42:46 2022 +0200
+
+    tiedosto,txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
